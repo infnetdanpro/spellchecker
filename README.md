@@ -1,4 +1,4 @@
-# Simple Python Spell-Checker
+# Simple Python 3 Spell-Checker
 
 ## Quickstart
 
