@@ -9,9 +9,6 @@ VERBOSE = True
 vowels = set('aeiouy')
 alphabet = set('abcdefghijklmnopqrstuvwxyz')
 
-"""vowels = set('уеыаоэяиюё')
-alphabet = set('йцукенгшщзхъфывапролджэячсмитьбюё')"""
-
 ### IO
 
 def log(*args):
