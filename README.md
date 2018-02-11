@@ -3,7 +3,7 @@
 ## Quickstart
 
 ```bash
-git clone https://github.com/pirate/spellchecker
+git clone https://github.com/infnetdanpro/spellchecker
 cd spellchecker/
 python spellchecker.py
 
